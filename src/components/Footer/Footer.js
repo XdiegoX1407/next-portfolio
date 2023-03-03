@@ -19,11 +19,11 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
+          <LinkTitle>Mi número</LinkTitle>
           <LinkItem href="tel:322-8343-989">322-8343-989</LinkItem>
         </LinkColumn>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          <LinkTitle>Mi correo</LinkTitle>
           <LinkItem href="mailto:diegocotte1407@gmail.com">
             diegocotte1407@gmail.com
           </LinkItem>
@@ -31,7 +31,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Todos los izquierdos reservados.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/XdiegoX1407">

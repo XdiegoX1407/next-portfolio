@@ -1,0 +1,62 @@
+export const projects = [
+  {
+    title: 'Wordle XD',
+    description: "Wordle XD es un Clon del famoso juego Wordle en el que tienes que adivinar la palabra del día, mientras te va dando pistas para saber como vas. Cada día obtendras una nueva palabra para adivinar. Además el juego es completamente responsive.",
+      image: '/images/wordle.png',
+      tags: ['React', 'JavaScript', 'CSS'],
+    source: 'https://wordle-rho-nine.vercel.app/',
+    visit: 'https://github.com/XdiegoX1407/wordle',
+    id: 0,
+  },
+  {
+    title: 'HooBank',
+    description:"HooBank es una página web con la idea de un banco moderno, en una única página encuentras el área de features, product y clients. También es completamente responsive.",
+    image: '/images/hoobank.png',
+    tags: ['React', 'TailwindCSS'],
+    source: 'https://bank-modern-ui-delta.vercel.app/',
+    visit: 'https://github.com/XdiegoX1407/bank-modern-ui',
+    id: 1,
+  },
+  {
+    title: 'Petgram',
+    description: "Petgram es una pequeña aplicación que tiene el diseño de instagram pero solo para mascotas, la cual maneja autenticación y likes. También es una Progressive Web App completamente responsive.",
+      image: '/images/petgram.png',
+      tags: ['React', 'Styled-components', 'graphql', 'workbox'],
+    source: 'https://petgram-xdiegox1407.vercel.app/',
+    visit: 'https://github.com/XdiegoX1407/Petgram',
+    id: 2,
+  },
+  {
+    title: 'Todo-machine',
+    description: "todo-machine es una app en la que puedes escribir tus tareas pendientes para recordarlas fácilmente, puedes checarlos cuando esten listos, buscarlos con la barra de búsqueda y borralos. Además tus todos se quedarán guardados en el navegador y es completamente responsive.",
+    image: '/images/todo-machine.png',
+    tags: ['React', 'JavaScript', 'CSS'],
+    source: 'https://todos-machine-react.netlify.app/',
+    visit: 'https://github.com/XdiegoX1407/TODOs-Machine-react',
+    id: 3,
+  },
+  {
+    title: 'MyFavoriteMovie',
+    description: "MyFavoriteMovie es una app de películas que trabaja con la api de TheMovieDB, en la cuál puedes ver todas las películas en tendencia o filtrar por distintas categorías, ver sus sinopsis y marcar tus favoritas. Sitio completamente responsive hecho con JavaScript Vanilla.",
+    image: '/images/my-favorite-movie.png',
+    tags: ['HTML', 'JavaScript', 'CSS'],
+    source: 'https://mf-movie.netlify.app/',
+    visit: 'https://github.com/XdiegoX1407/My-Favorite-Movie',
+    id: 4,
+  },
+  {
+    title: 'CodexAI',
+    description: "Codex-ai es una app que utiliza la api de OpenAI para hablar por medio del chat con una inteligencia artificial que intentará responder todas tus preguntas. No tiene todas las capacidades de un ChatGPT pero puede responder a preguntas simples. También es completamente responsive.",
+    image: '/images/codex.png',
+    tags: ['HTML', 'JavaScript', 'CSS', 'NodeJS', 'Express' ],
+    source: 'https://codex-ai-7.vercel.app/',
+    visit: 'https://github.com/XdiegoX1407/codex-ai',
+    id: 5,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2020, text: 'Empecé a adentrarme en el mundo de la programación a través de videos en Youtube', },
+  { year: 2021, text: 'Entró en Platzi para aprender a profundidad el desarrollo web', },
+  { year: 2022, text: 'Al tener el conocimiento suficiente empiezo a desarrollar mis propios proyectos personales', },
+];

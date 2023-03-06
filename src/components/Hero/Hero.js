@@ -21,8 +21,8 @@ const Hero = () => (
         cosas que he ido aprendiendo a lo largo de mi camino. <br />
         Soy un apasionado del desarrollo web que está en constante aprendizaje para seguir creciendo como desarrollador.
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
-        Más información
+      <Button>
+        <a href="https://drive.google.com/file/d/1942HGhWjkE1LaUDj1pg7f82G7FWDGbfa/view" target="_blank">Descargar CV</a>
       </Button>
     </LeftSection>
   </Section>

@@ -16,10 +16,10 @@ const Hero = () => (
         Mi Portafolio Personal
       </SectionTitle>
       <SectionText>
-        Aquí podrás encontrar información sobre mí, como empezé en el mundo de
+        Aquí podrás encontrar información sobre mí, cómo empecé en el mundo de
         la programación, algunos de los proyectos que he realizado y todas las
         cosas que he ido aprendiendo a lo largo de mi camino. <br />
-        Soy un apasionado del desarrollo web que esta en constante aprendizaje para seguir creciendo como desarrollador.
+        Soy un apasionado del desarrollo web que está en constante aprendizaje para seguir creciendo como desarrollador.
       </SectionText>
       <Button onClick={() => (window.location = "https://google.com")}>
         Más información

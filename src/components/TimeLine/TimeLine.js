@@ -65,12 +65,12 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>Sobre mi</SectionTitle>
+      <SectionTitle>Sobre mí</SectionTitle>
       <SectionText>
         Hola, soy Diego Cotte. <br />
         Soy un desarrollador web full-stack, ya tengo más de dos años desde que
-        empezé a aprender programación, hasta la fecha sigo aprendiendo nuevas
-        tecnologias y desarrollando proyectos por mi cuenta, mi area favorita
+        empecé a aprender programación, hasta la fecha sigo aprendiendo nuevas
+        tecnologías y desarrollando proyectos por mi cuenta, mi área favorita
         del desarrollo web es la del front-end ya que puedo crear toda la parte
         visual e interactiva de una app.
       </SectionText>

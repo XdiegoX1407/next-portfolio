@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Wordle XD',
-    description: "Wordle XD es un Clon del famoso juego Wordle en el que tienes que adivinar la palabra del día, mientras te va dando pistas para saber como vas. Cada día obtendras una nueva palabra para adivinar. Además el juego es completamente responsive.",
+    description: "Wordle XD es un Clon del famoso juego Wordle en el que tienes que adivinar la palabra del día, mientras te va dando pistas para saber cómo vas. Cada día obtendrás una nueva palabra para adivinar. Además el juego es completamente responsive.",
       image: '/images/wordle.png',
       tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://wordle-rho-nine.vercel.app/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Petgram',
-    description: "Petgram es una pequeña aplicación que tiene el diseño de instagram pero solo para mascotas, la cual maneja autenticación y likes. También es una Progressive Web App completamente responsive.",
+    description: "Petgram es una pequeña aplicación que tiene el diseño de instagram pero sólo para mascotas, la cual maneja autenticación y likes. También es una Progressive Web App completamente responsive.",
       image: '/images/petgram.png',
       tags: ['React', 'Styled-components', 'graphql', 'workbox'],
     source: 'https://petgram-xdiegox1407.vercel.app/',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Todo-machine',
-    description: "todo-machine es una app en la que puedes escribir tus tareas pendientes para recordarlas fácilmente, puedes checarlos cuando esten listos, buscarlos con la barra de búsqueda y borralos. Además tus todos se quedarán guardados en el navegador y es completamente responsive.",
+    description: "Todo-machine es una app en la que puedes escribir tus tareas pendientes para recordarlas fácilmente, puedes checarlos cuando estén listos, buscarlos con la barra de búsqueda y borrarlos. Además tus to-dos se quedarán guardados en el navegador y es completamente responsive.",
     image: '/images/todo-machine.png',
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://todos-machine-react.netlify.app/',
